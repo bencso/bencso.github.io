@@ -1,1 +1,1 @@
-<a href="https://bencso.github.io/">LINK</a>
+<a href="https://bencso.github.io/">Tovább a linkre</a>
